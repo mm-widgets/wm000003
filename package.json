@@ -1,6 +1,6 @@
 {
 	"name": "@mmstudio/wm000003",
-	"version": "1.0.0",
+	"version": "1.0.202004091642",
 	"description": "数字加减框",
 	"scripts": {
 		"test": "tsc -w",
